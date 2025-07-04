@@ -2,6 +2,10 @@
 
 > This repo contains code demos that were discussed in ["Open WebUI + LangGraph AI Agents with Python Executor and Postgres Database-A Walkthrough"](https://www.youtube.com/live/4fg0KGmSjv8?si=iWemebZ8Xlkd1vkx&utm_source=github&utm_medium=github-readme).
 
+
+https://www.youtube.com/watch?v=4fg0KGmSjv8
+
+
 **Disclaimer:** This repository is just a demonstration of what is possible with LangGraph agents and Open WebUI integration. It will not be actively maintained.
 
 This repo will teach you how to:
